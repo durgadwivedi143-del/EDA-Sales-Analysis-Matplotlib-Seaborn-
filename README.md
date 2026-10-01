@@ -488,9 +488,7 @@ The project follows a practical approach of:
 
 ## 📬 Connect With Me
 
-**LinkedIn:** Add your LinkedIn profile here
-
-**GitHub:** Add your GitHub profile here
+**Email** durgadwivedi143@gmail.com
 
 ---
 
